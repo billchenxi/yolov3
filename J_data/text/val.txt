@@ -1,0 +1,9 @@
+/home/juvena/Documents/Bill/darknet/J_data/images/val/54.jpg
+/home/juvena/Documents/Bill/darknet/J_data/images/val/56.jpg
+/home/juvena/Documents/Bill/darknet/J_data/images/val/67.jpg
+/home/juvena/Documents/Bill/darknet/J_data/images/val/66.jpg
+/home/juvena/Documents/Bill/darknet/J_data/images/val/55.jpg
+/home/juvena/Documents/Bill/darknet/J_data/images/val/65.jpg
+/home/juvena/Documents/Bill/darknet/J_data/images/val/64.jpg
+/home/juvena/Documents/Bill/darknet/J_data/images/val/62.jpg
+/home/juvena/Documents/Bill/darknet/J_data/images/val/63.jpg
