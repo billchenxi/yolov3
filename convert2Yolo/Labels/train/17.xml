@@ -1,0 +1,26 @@
+<annotation>
+	<folder>No_Overlap_8x6</folder>
+	<filename>17.jpg</filename>
+	<path>C:\Users\Bill\Documents\GitHub\J\data\No_Overlap_8x6\17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>New</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>191</ymin>
+			<xmax>175</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
