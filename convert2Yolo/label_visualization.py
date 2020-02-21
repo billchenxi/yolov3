@@ -53,7 +53,7 @@ def main():
         for key in data:
 
             filepath = "".join([img_path, key, img_type])
-
+            print(key)
             im = Image.open(filepath)
 
             draw = ImageDraw.Draw(im)
@@ -68,12 +68,14 @@ def main():
                 x1 = data[key]["objects"][str(idx)]["bndbox"]["xmax"]
                 y1 = data[key]["objects"][str(idx)]["bndbox"]["ymax"]
 
-                draw.rectangle(((x0,y0), (x1,y1)), outline='#00ff88')
+                draw.rectangle(((x0,y0), (x1,y1)), outline='#00ff88', width=10)
                 draw.text((x0,y0), data[key]["objects"][str(idx)]["name"])
 
             del draw
             print("===============================================================================================\n\n")
             plt.imshow(im)
+            plt.title("Image: "+key)
+            plt.savefig(os.path.join("../",key+"labeled"+img_type))
             plt.show()
             plt.clf()
             im.close()

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Labeling</folder>
-	<filename>10.tif</filename>
-	<path>/Users/juvenatherapeutics/Desktop/Labeling/10.tif</path>
+	<filename>12.png</filename>
+	<path>/Users/juvenatherapeutics/Desktop/Labeling/12.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,549 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>906</xmin>
-			<ymin>529</ymin>
-			<xmax>1010</xmax>
-			<ymax>619</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>866</xmin>
-			<ymin>582</ymin>
-			<xmax>941</xmax>
-			<ymax>642</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>812</xmin>
-			<ymin>609</ymin>
-			<xmax>908</xmax>
-			<ymax>715</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>921</xmin>
-			<ymin>627</ymin>
-			<xmax>1012</xmax>
-			<ymax>711</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>944</xmin>
-			<ymin>719</ymin>
-			<xmax>1037</xmax>
-			<ymax>786</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>727</xmin>
-			<ymin>565</ymin>
-			<xmax>823</xmax>
-			<ymax>640</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>808</xmin>
-			<ymin>529</ymin>
-			<xmax>891</xmax>
-			<ymax>592</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>819</xmin>
-			<ymin>475</ymin>
-			<xmax>929</xmax>
-			<ymax>538</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>650</xmin>
-			<ymin>615</ymin>
-			<xmax>762</xmax>
-			<ymax>677</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>781</xmin>
-			<ymin>373</ymin>
-			<xmax>858</xmax>
-			<ymax>454</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>914</xmin>
-			<ymin>394</ymin>
-			<xmax>1021</xmax>
-			<ymax>465</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>896</xmin>
-			<ymin>338</ymin>
-			<xmax>966</xmax>
-			<ymax>407</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1050</xmin>
-			<ymin>284</ymin>
-			<xmax>1121</xmax>
-			<ymax>357</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1133</xmin>
-			<ymin>292</ymin>
-			<xmax>1212</xmax>
-			<ymax>375</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>573</xmin>
-			<ymin>459</ymin>
-			<xmax>664</xmax>
-			<ymax>542</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>496</xmin>
-			<ymin>432</ymin>
-			<xmax>569</xmax>
-			<ymax>504</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>504</xmin>
-			<ymin>502</ymin>
-			<xmax>575</xmax>
-			<ymax>582</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>321</xmin>
-			<ymin>550</ymin>
-			<xmax>423</xmax>
-			<ymax>619</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>331</xmin>
-			<ymin>496</ymin>
-			<xmax>414</xmax>
-			<ymax>567</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>298</xmin>
-			<ymin>423</ymin>
-			<xmax>381</xmax>
-			<ymax>496</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>185</xmin>
-			<ymin>504</ymin>
-			<xmax>312</xmax>
-			<ymax>573</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>196</xmin>
-			<ymin>436</ymin>
-			<xmax>256</xmax>
-			<ymax>496</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>235</xmin>
-			<ymin>382</ymin>
-			<xmax>316</xmax>
-			<ymax>444</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>233</xmin>
-			<ymin>579</ymin>
-			<xmax>329</xmax>
-			<ymax>663</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>312</xmin>
-			<ymin>650</ymin>
-			<xmax>416</xmax>
-			<ymax>721</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>166</xmin>
-			<ymin>702</ymin>
-			<xmax>285</xmax>
-			<ymax>775</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>248</xmin>
-			<ymin>757</ymin>
-			<xmax>348</xmax>
-			<ymax>844</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>269</xmin>
-			<ymin>854</ymin>
-			<xmax>350</xmax>
-			<ymax>936</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>237</xmin>
-			<ymin>927</ymin>
-			<xmax>350</xmax>
-			<ymax>996</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1075</xmin>
-			<ymin>707</ymin>
-			<xmax>1154</xmax>
-			<ymax>767</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1087</xmin>
-			<ymin>769</ymin>
-			<xmax>1166</xmax>
-			<ymax>846</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1162</xmin>
-			<ymin>723</ymin>
-			<xmax>1223</xmax>
-			<ymax>823</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1229</xmin>
-			<ymin>736</ymin>
-			<xmax>1308</xmax>
-			<ymax>825</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1177</xmin>
-			<ymin>667</ymin>
-			<xmax>1239</xmax>
-			<ymax>729</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1287</xmin>
-			<ymin>673</ymin>
-			<xmax>1364</xmax>
-			<ymax>757</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1366</xmin>
-			<ymin>621</ymin>
-			<xmax>1444</xmax>
-			<ymax>692</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1441</xmin>
-			<ymin>586</ymin>
-			<xmax>1508</xmax>
-			<ymax>669</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1556</xmin>
-			<ymin>573</ymin>
-			<xmax>1662</xmax>
-			<ymax>665</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1650</xmin>
-			<ymin>565</ymin>
-			<xmax>1737</xmax>
-			<ymax>657</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1750</xmin>
-			<ymin>573</ymin>
-			<xmax>1875</xmax>
-			<ymax>669</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1498</xmin>
-			<ymin>659</ymin>
-			<xmax>1589</xmax>
-			<ymax>738</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1423</xmin>
-			<ymin>682</ymin>
-			<xmax>1525</xmax>
-			<ymax>773</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1398</xmin>
-			<ymin>759</ymin>
-			<xmax>1489</xmax>
-			<ymax>850</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1285</xmin>
-			<ymin>821</ymin>
-			<xmax>1385</xmax>
-			<ymax>934</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1158</xmin>
-			<ymin>815</ymin>
-			<xmax>1235</xmax>
-			<ymax>909</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1091</xmin>
-			<ymin>882</ymin>
-			<xmax>1175</xmax>
+			<xmin>633</xmin>
+			<ymin>873</ymin>
+			<xmax>783</xmax>
 			<ymax>944</ymax>
 		</bndbox>
 	</object>
@@ -569,33 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1008</xmin>
-			<ymin>779</ymin>
-			<xmax>1083</xmax>
-			<ymax>854</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1010</xmin>
-			<ymin>921</ymin>
-			<xmax>1091</xmax>
-			<ymax>994</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1064</xmin>
-			<ymin>959</ymin>
-			<xmax>1141</xmax>
+			<xmin>662</xmin>
+			<ymin>940</ymin>
+			<xmax>791</xmax>
 			<ymax>1026</ymax>
 		</bndbox>
 	</object>
@@ -605,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1081</xmin>
-			<ymin>1101</ymin>
-			<xmax>1183</xmax>
-			<ymax>1185</ymax>
+			<xmin>771</xmin>
+			<ymin>919</ymin>
+			<xmax>894</xmax>
+			<ymax>1015</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -617,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1069</xmin>
-			<ymin>1162</ymin>
-			<xmax>1175</xmax>
-			<ymax>1235</ymax>
+			<xmin>554</xmin>
+			<ymin>927</ymin>
+			<xmax>660</xmax>
+			<ymax>1011</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -629,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1194</xmin>
-			<ymin>1176</ymin>
-			<xmax>1294</xmax>
-			<ymax>1274</ymax>
+			<xmin>466</xmin>
+			<ymin>832</ymin>
+			<xmax>594</xmax>
+			<ymax>911</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -641,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1125</xmin>
-			<ymin>1222</ymin>
-			<xmax>1221</xmax>
-			<ymax>1318</ymax>
+			<xmin>569</xmin>
+			<ymin>804</ymin>
+			<xmax>694</xmax>
+			<ymax>867</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -653,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1237</xmin>
-			<ymin>1278</ymin>
-			<xmax>1308</xmax>
-			<ymax>1376</ymax>
+			<xmin>466</xmin>
+			<ymin>761</ymin>
+			<xmax>644</xmax>
+			<ymax>819</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -665,214 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1052</xmin>
-			<ymin>1249</ymin>
-			<xmax>1141</xmax>
-			<ymax>1337</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1029</xmin>
-			<ymin>1351</ymin>
-			<xmax>1121</xmax>
-			<ymax>1418</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>971</xmin>
-			<ymin>1205</ymin>
-			<xmax>1075</xmax>
-			<ymax>1280</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>891</xmin>
-			<ymin>1233</ymin>
-			<xmax>1008</xmax>
-			<ymax>1314</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>923</xmin>
-			<ymin>1320</ymin>
-			<xmax>1027</xmax>
-			<ymax>1385</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1000</xmin>
-			<ymin>1155</ymin>
-			<xmax>1091</xmax>
-			<ymax>1218</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>979</xmin>
-			<ymin>1101</ymin>
-			<xmax>1064</xmax>
-			<ymax>1149</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>994</xmin>
-			<ymin>1023</ymin>
-			<xmax>1081</xmax>
-			<ymax>1095</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>912</xmin>
-			<ymin>1030</ymin>
-			<xmax>991</xmax>
-			<ymax>1089</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>850</xmin>
-			<ymin>1087</ymin>
-			<xmax>977</xmax>
-			<ymax>1147</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>814</xmin>
-			<ymin>1155</ymin>
-			<xmax>887</xmax>
-			<ymax>1218</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>800</xmin>
-			<ymin>1216</ymin>
-			<xmax>875</xmax>
-			<ymax>1295</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>787</xmin>
-			<ymin>1299</ymin>
-			<xmax>885</xmax>
-			<ymax>1374</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>706</xmin>
-			<ymin>1283</ymin>
-			<xmax>806</xmax>
-			<ymax>1372</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>764</xmin>
-			<ymin>1078</ymin>
-			<xmax>835</xmax>
-			<ymax>1143</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>564</xmin>
-			<ymin>1199</ymin>
-			<xmax>650</xmax>
-			<ymax>1285</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>658</xmin>
-			<ymin>1143</ymin>
-			<xmax>748</xmax>
-			<ymax>1214</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>475</xmin>
-			<ymin>1199</ymin>
+			<xmin>414</xmin>
+			<ymin>690</ymin>
 			<xmax>564</xmax>
-			<ymax>1308</ymax>
+			<ymax>773</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -881,153 +113,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>575</xmin>
-			<ymin>1087</ymin>
-			<xmax>658</xmax>
-			<ymax>1153</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>579</xmin>
-			<ymin>1009</ymin>
-			<xmax>654</xmax>
-			<ymax>1080</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>479</xmin>
-			<ymin>998</ymin>
-			<xmax>573</xmax>
-			<ymax>1070</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>485</xmin>
-			<ymin>932</ymin>
-			<xmax>558</xmax>
-			<ymax>1002</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>575</xmin>
-			<ymin>952</ymin>
-			<xmax>656</xmax>
-			<ymax>1023</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>641</xmin>
-			<ymin>938</ymin>
-			<xmax>758</xmax>
-			<ymax>1013</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>766</xmin>
-			<ymin>998</ymin>
-			<xmax>839</xmax>
-			<ymax>1055</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>737</xmin>
-			<ymin>948</ymin>
-			<xmax>829</xmax>
-			<ymax>1017</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>652</xmin>
-			<ymin>888</ymin>
-			<xmax>729</xmax>
-			<ymax>957</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>908</xmin>
-			<ymin>852</ymin>
-			<xmax>987</xmax>
-			<ymax>927</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>919</xmin>
-			<ymin>767</ymin>
-			<xmax>998</xmax>
-			<ymax>863</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>816</xmin>
-			<ymin>767</ymin>
-			<xmax>908</xmax>
-			<ymax>832</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>852</xmin>
-			<ymin>823</ymin>
-			<xmax>935</xmax>
+			<xmin>308</xmin>
+			<ymin>825</ymin>
+			<xmax>441</xmax>
 			<ymax>886</ymax>
 		</bndbox>
 	</object>
@@ -1037,10 +125,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>831</xmin>
-			<ymin>875</ymin>
-			<xmax>898</xmax>
-			<ymax>986</ymax>
+			<xmin>294</xmin>
+			<ymin>773</ymin>
+			<xmax>394</xmax>
+			<ymax>821</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1049,10 +137,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>733</xmin>
-			<ymin>807</ymin>
-			<xmax>819</xmax>
-			<ymax>873</ymax>
+			<xmin>235</xmin>
+			<ymin>848</ymin>
+			<xmax>329</xmax>
+			<ymax>898</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1061,10 +149,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>764</xmin>
-			<ymin>869</ymin>
-			<xmax>833</xmax>
-			<ymax>936</ymax>
+			<xmin>108</xmin>
+			<ymin>865</ymin>
+			<xmax>216</xmax>
+			<ymax>915</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1073,10 +161,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1216</xmin>
-			<ymin>1033</ymin>
-			<xmax>1314</xmax>
-			<ymax>1103</ymax>
+			<xmin>144</xmin>
+			<ymin>929</ymin>
+			<xmax>246</xmax>
+			<ymax>994</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1085,10 +173,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1235</xmin>
-			<ymin>1095</ymin>
-			<xmax>1316</xmax>
-			<ymax>1170</ymax>
+			<xmin>169</xmin>
+			<ymin>1028</ymin>
+			<xmax>275</xmax>
+			<ymax>1091</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1097,21 +185,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1321</xmin>
-			<ymin>998</ymin>
-			<xmax>1406</xmax>
-			<ymax>1085</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1314</xmin>
-			<ymin>1089</ymin>
-			<xmax>1410</xmax>
+			<xmin>208</xmin>
+			<ymin>1091</ymin>
+			<xmax>323</xmax>
 			<ymax>1168</ymax>
 		</bndbox>
 	</object>
@@ -1121,10 +197,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1331</xmin>
-			<ymin>1228</ymin>
-			<xmax>1435</xmax>
-			<ymax>1320</ymax>
+			<xmin>273</xmin>
+			<ymin>1053</ymin>
+			<xmax>379</xmax>
+			<ymax>1103</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1133,10 +209,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1400</xmin>
-			<ymin>1116</ymin>
-			<xmax>1475</xmax>
-			<ymax>1195</ymax>
+			<xmin>354</xmin>
+			<ymin>957</ymin>
+			<xmax>485</xmax>
+			<ymax>1023</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1145,10 +221,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1406</xmin>
-			<ymin>925</ymin>
-			<xmax>1483</xmax>
-			<ymax>996</ymax>
+			<xmin>325</xmin>
+			<ymin>1097</ymin>
+			<xmax>446</xmax>
+			<ymax>1174</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1157,10 +233,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1452</xmin>
-			<ymin>900</ymin>
-			<xmax>1548</xmax>
-			<ymax>984</ymax>
+			<xmin>285</xmin>
+			<ymin>1155</ymin>
+			<xmax>391</xmax>
+			<ymax>1228</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1169,177 +245,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1546</xmin>
-			<ymin>871</ymin>
-			<xmax>1633</xmax>
-			<ymax>961</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1571</xmin>
-			<ymin>798</ymin>
-			<xmax>1660</xmax>
-			<ymax>882</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1708</xmin>
-			<ymin>779</ymin>
-			<xmax>1773</xmax>
-			<ymax>884</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1777</xmin>
-			<ymin>773</ymin>
-			<xmax>1846</xmax>
-			<ymax>854</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1846</xmin>
-			<ymin>648</ymin>
-			<xmax>1920</xmax>
-			<ymax>730</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1698</xmin>
-			<ymin>646</ymin>
-			<xmax>1775</xmax>
-			<ymax>761</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1756</xmin>
-			<ymin>650</ymin>
-			<xmax>1829</xmax>
-			<ymax>711</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1775</xmin>
-			<ymin>700</ymin>
-			<xmax>1866</xmax>
-			<ymax>769</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1739</xmin>
-			<ymin>873</ymin>
-			<xmax>1850</xmax>
-			<ymax>965</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1835</xmin>
-			<ymin>971</ymin>
-			<xmax>1920</xmax>
-			<ymax>1071</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1775</xmin>
+			<xmin>616</xmin>
 			<ymin>1019</ymin>
-			<xmax>1873</xmax>
-			<ymax>1124</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1581</xmin>
-			<ymin>946</ymin>
-			<xmax>1648</xmax>
-			<ymax>1035</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1456</xmin>
-			<ymin>998</ymin>
-			<xmax>1535</xmax>
-			<ymax>1089</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1506</xmin>
-			<ymin>965</ymin>
-			<xmax>1581</xmax>
-			<ymax>1043</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1529</xmin>
-			<ymin>1037</ymin>
-			<xmax>1621</xmax>
+			<xmax>766</xmax>
 			<ymax>1122</ymax>
 		</bndbox>
 	</object>
@@ -1349,10 +257,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1521</xmin>
-			<ymin>1108</ymin>
-			<xmax>1598</xmax>
-			<ymax>1193</ymax>
+			<xmin>533</xmin>
+			<ymin>1060</ymin>
+			<xmax>641</xmax>
+			<ymax>1130</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1361,10 +269,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>535</xmin>
-			<ymin>1299</ymin>
-			<xmax>631</xmax>
-			<ymax>1376</ymax>
+			<xmin>579</xmin>
+			<ymin>1124</ymin>
+			<xmax>700</xmax>
+			<ymax>1205</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1373,10 +281,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>577</xmin>
-			<ymin>1358</ymin>
-			<xmax>694</xmax>
-			<ymax>1428</ymax>
+			<xmin>694</xmin>
+			<ymin>1130</ymin>
+			<xmax>789</xmax>
+			<ymax>1218</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1385,10 +293,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>285</xmin>
-			<ymin>1251</ymin>
-			<xmax>398</xmax>
-			<ymax>1330</ymax>
+			<xmin>704</xmin>
+			<ymin>1195</ymin>
+			<xmax>802</xmax>
+			<ymax>1278</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1397,10 +305,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>1326</ymin>
-			<xmax>298</xmax>
-			<ymax>1405</ymax>
+			<xmin>794</xmin>
+			<ymin>1193</ymin>
+			<xmax>894</xmax>
+			<ymax>1276</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1409,10 +317,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>211</xmin>
-			<ymin>1263</ymin>
-			<xmax>296</xmax>
-			<ymax>1327</ymax>
+			<xmin>427</xmin>
+			<ymin>1187</ymin>
+			<xmax>514</xmax>
+			<ymax>1243</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1421,9 +329,33 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>171</xmin>
-			<ymin>1218</ymin>
-			<xmax>237</xmax>
+			<xmin>287</xmin>
+			<ymin>1258</ymin>
+			<xmax>396</xmax>
+			<ymax>1366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>1176</ymin>
+			<xmax>252</xmax>
+			<ymax>1287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>1210</ymin>
+			<xmax>175</xmax>
 			<ymax>1289</ymax>
 		</bndbox>
 	</object>
@@ -1433,22 +365,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>66</xmin>
-			<ymin>1203</ymin>
-			<xmax>187</xmax>
-			<ymax>1262</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>35</xmin>
-			<ymin>1270</ymin>
-			<xmax>148</xmax>
-			<ymax>1341</ymax>
+			<ymin>988</ymin>
+			<xmax>129</xmax>
+			<ymax>1074</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1457,202 +377,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>121</xmin>
-			<ymin>1320</ymin>
-			<xmax>214</xmax>
-			<ymax>1397</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>196</xmin>
-			<ymin>1149</ymin>
-			<xmax>289</xmax>
-			<ymax>1210</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>139</xmin>
-			<ymin>1000</ymin>
-			<xmax>241</xmax>
-			<ymax>1064</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>71</xmin>
-			<ymin>1049</ymin>
-			<xmax>169</xmax>
-			<ymax>1116</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1758</xmin>
-			<ymin>1112</ymin>
-			<xmax>1827</xmax>
-			<ymax>1230</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1698</xmin>
-			<ymin>1045</ymin>
-			<xmax>1785</xmax>
-			<ymax>1133</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1621</xmin>
-			<ymin>1049</ymin>
-			<xmax>1704</xmax>
-			<ymax>1141</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1746</xmin>
-			<ymin>1116</ymin>
-			<xmax>1752</xmax>
-			<ymax>1118</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1658</xmin>
-			<ymin>1122</ymin>
-			<xmax>1760</xmax>
-			<ymax>1203</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1375</xmin>
-			<ymin>490</ymin>
-			<xmax>1473</xmax>
-			<ymax>577</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1614</xmin>
-			<ymin>1164</ymin>
-			<xmax>1683</xmax>
-			<ymax>1262</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>646</xmin>
-			<ymin>727</ymin>
-			<xmax>735</xmax>
-			<ymax>811</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>566</xmin>
-			<ymin>740</ymin>
-			<xmax>635</xmax>
-			<ymax>811</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>156</xmin>
-			<ymin>884</ymin>
-			<xmax>254</xmax>
-			<ymax>954</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>106</xmin>
-			<ymin>782</ymin>
-			<xmax>196</xmax>
-			<ymax>865</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>52</xmin>
-			<ymin>552</ymin>
-			<xmax>127</xmax>
-			<ymax>632</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>121</xmin>
-			<ymin>554</ymin>
-			<xmax>210</xmax>
-			<ymax>627</ymax>
+			<xmin>58</xmin>
+			<ymin>725</ymin>
+			<xmax>200</xmax>
+			<ymax>807</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1662,20 +390,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>148</xmin>
-			<ymin>627</ymin>
-			<xmax>229</xmax>
-			<ymax>692</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>77</xmin>
-			<ymin>671</ymin>
-			<xmax>166</xmax>
+			<ymin>669</ymin>
+			<xmax>252</xmax>
 			<ymax>744</ymax>
 		</bndbox>
 	</object>
@@ -1685,22 +401,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>279</xmin>
-			<ymin>309</ymin>
-			<xmax>362</xmax>
-			<ymax>375</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>256</xmin>
-			<ymin>240</ymin>
-			<xmax>344</xmax>
-			<ymax>311</ymax>
+			<ymin>686</ymin>
+			<xmax>358</xmax>
+			<ymax>746</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1709,58 +413,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>244</xmin>
-			<ymin>173</ymin>
-			<xmax>331</xmax>
-			<ymax>232</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>137</xmin>
-			<ymin>142</ymin>
-			<xmax>254</xmax>
-			<ymax>217</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>171</xmin>
-			<ymin>88</ymin>
-			<xmax>285</xmax>
-			<ymax>146</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>123</xmin>
-			<ymin>54</ymin>
-			<xmax>212</xmax>
-			<ymax>98</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>200</xmin>
-			<ymin>1</ymin>
-			<xmax>269</xmax>
-			<ymax>54</ymax>
+			<xmin>198</xmin>
+			<ymin>600</ymin>
+			<xmax>337</xmax>
+			<ymax>686</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1770,9 +426,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>69</xmin>
-			<ymin>194</ymin>
-			<xmax>152</xmax>
-			<ymax>246</ymax>
+			<ymin>548</ymin>
+			<xmax>194</xmax>
+			<ymax>642</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1781,10 +437,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>141</xmin>
-			<ymin>217</ymin>
-			<xmax>262</xmax>
-			<ymax>313</ymax>
+			<xmin>189</xmin>
+			<ymin>525</ymin>
+			<xmax>298</xmax>
+			<ymax>611</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1793,250 +449,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>200</xmin>
-			<ymin>298</ymin>
-			<xmax>279</xmax>
-			<ymax>367</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>110</xmin>
-			<ymin>273</ymin>
-			<xmax>206</xmax>
-			<ymax>350</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>8</xmin>
-			<ymin>242</ymin>
-			<xmax>119</xmax>
-			<ymax>340</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>133</xmin>
-			<ymin>359</ymin>
-			<xmax>231</xmax>
-			<ymax>438</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>39</xmin>
-			<ymin>350</ymin>
-			<xmax>131</xmax>
-			<ymax>425</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>60</xmin>
-			<ymin>425</ymin>
-			<xmax>160</xmax>
-			<ymax>484</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>83</xmin>
-			<ymin>486</ymin>
-			<xmax>175</xmax>
-			<ymax>546</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1281</xmin>
-			<ymin>77</ymin>
-			<xmax>1389</xmax>
-			<ymax>175</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1158</xmin>
-			<ymin>79</ymin>
-			<xmax>1254</xmax>
-			<ymax>165</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1156</xmin>
-			<ymin>19</ymin>
-			<xmax>1229</xmax>
-			<ymax>90</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>973</xmin>
-			<ymin>496</ymin>
-			<xmax>1054</xmax>
-			<ymax>561</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1046</xmin>
-			<ymin>463</ymin>
-			<xmax>1133</xmax>
-			<ymax>521</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1056</xmin>
-			<ymin>519</ymin>
-			<xmax>1127</xmax>
-			<ymax>582</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1069</xmin>
-			<ymin>577</ymin>
-			<xmax>1133</xmax>
-			<ymax>646</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1119</xmin>
-			<ymin>438</ymin>
-			<xmax>1194</xmax>
-			<ymax>502</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1181</xmin>
-			<ymin>392</ymin>
-			<xmax>1262</xmax>
-			<ymax>469</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1129</xmin>
-			<ymin>513</ymin>
-			<xmax>1200</xmax>
-			<ymax>575</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1135</xmin>
-			<ymin>567</ymin>
-			<xmax>1219</xmax>
-			<ymax>650</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1219</xmin>
-			<ymin>565</ymin>
-			<xmax>1304</xmax>
-			<ymax>663</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1200</xmin>
-			<ymin>521</ymin>
-			<xmax>1264</xmax>
-			<ymax>573</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1225</xmin>
+			<xmin>164</xmin>
 			<ymin>459</ymin>
-			<xmax>1294</xmax>
-			<ymax>519</ymax>
+			<xmax>281</xmax>
+			<ymax>536</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2045,10 +461,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1269</xmin>
-			<ymin>492</ymin>
-			<xmax>1331</xmax>
-			<ymax>575</ymax>
+			<xmin>66</xmin>
+			<ymin>463</ymin>
+			<xmax>173</xmax>
+			<ymax>548</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2057,69 +473,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1321</xmin>
-			<ymin>509</ymin>
-			<xmax>1381</xmax>
-			<ymax>586</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1262</xmin>
-			<ymin>400</ymin>
-			<xmax>1329</xmax>
-			<ymax>475</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1321</xmin>
-			<ymin>432</ymin>
-			<xmax>1396</xmax>
-			<ymax>498</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1273</xmin>
-			<ymin>275</ymin>
-			<xmax>1346</xmax>
-			<ymax>377</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1352</xmin>
-			<ymin>329</ymin>
-			<xmax>1433</xmax>
-			<ymax>423</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>new_fiber</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1483</xmin>
-			<ymin>377</ymin>
-			<xmax>1550</xmax>
+			<xmin>98</xmin>
+			<ymin>396</ymin>
+			<xmax>241</xmax>
 			<ymax>463</ymax>
 		</bndbox>
 	</object>
@@ -2129,10 +485,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1510</xmin>
-			<ymin>332</ymin>
-			<xmax>1587</xmax>
-			<ymax>436</ymax>
+			<xmin>73</xmin>
+			<ymin>325</ymin>
+			<xmax>160</xmax>
+			<ymax>394</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2141,10 +497,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1552</xmin>
-			<ymin>304</ymin>
-			<xmax>1658</xmax>
-			<ymax>423</ymax>
+			<xmin>164</xmin>
+			<ymin>309</ymin>
+			<xmax>246</xmax>
+			<ymax>394</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2153,10 +509,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1473</xmin>
-			<ymin>240</ymin>
-			<xmax>1552</xmax>
-			<ymax>329</ymax>
+			<xmin>135</xmin>
+			<ymin>221</ymin>
+			<xmax>135</xmax>
+			<ymax>223</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2165,10 +521,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1514</xmin>
-			<ymin>217</ymin>
-			<xmax>1600</xmax>
-			<ymax>288</ymax>
+			<xmin>139</xmin>
+			<ymin>223</ymin>
+			<xmax>235</xmax>
+			<ymax>323</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2177,10 +533,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1331</xmin>
-			<ymin>248</ymin>
-			<xmax>1391</xmax>
-			<ymax>321</ymax>
+			<xmin>273</xmin>
+			<ymin>229</ymin>
+			<xmax>387</xmax>
+			<ymax>315</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2189,10 +545,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1371</xmin>
-			<ymin>209</ymin>
-			<xmax>1441</xmax>
-			<ymax>288</ymax>
+			<xmin>323</xmin>
+			<ymin>309</ymin>
+			<xmax>439</xmax>
+			<ymax>386</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2201,10 +557,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1408</xmin>
-			<ymin>177</ymin>
-			<xmax>1483</xmax>
-			<ymax>263</ymax>
+			<xmin>352</xmin>
+			<ymin>375</ymin>
+			<xmax>481</xmax>
+			<ymax>442</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2213,10 +569,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1460</xmin>
-			<ymin>140</ymin>
-			<xmax>1533</xmax>
-			<ymax>221</ymax>
+			<xmin>414</xmin>
+			<ymin>425</ymin>
+			<xmax>544</xmax>
+			<ymax>509</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2225,10 +581,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1533</xmin>
-			<ymin>134</ymin>
-			<xmax>1625</xmax>
-			<ymax>254</ymax>
+			<xmin>387</xmin>
+			<ymin>227</ymin>
+			<xmax>496</xmax>
+			<ymax>298</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2237,10 +593,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1754</xmin>
-			<ymin>496</ymin>
-			<xmax>1856</xmax>
-			<ymax>592</ymax>
+			<xmin>339</xmin>
+			<ymin>161</ymin>
+			<xmax>452</xmax>
+			<ymax>234</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2249,10 +605,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1764</xmin>
-			<ymin>444</ymin>
-			<xmax>1844</xmax>
-			<ymax>519</ymax>
+			<xmin>437</xmin>
+			<ymin>107</ymin>
+			<xmax>569</xmax>
+			<ymax>173</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2261,10 +617,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1664</xmin>
-			<ymin>1341</ymin>
-			<xmax>1756</xmax>
-			<ymax>1439</ymax>
+			<xmin>312</xmin>
+			<ymin>84</ymin>
+			<xmax>419</xmax>
+			<ymax>159</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2273,10 +629,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1729</xmin>
-			<ymin>1322</ymin>
-			<xmax>1812</xmax>
-			<ymax>1410</ymax>
+			<xmin>12</xmin>
+			<ymin>157</ymin>
+			<xmax>150</xmax>
+			<ymax>223</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2285,10 +641,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1769</xmin>
-			<ymin>1274</ymin>
-			<xmax>1864</xmax>
-			<ymax>1372</ymax>
+			<xmin>6</xmin>
+			<ymin>77</ymin>
+			<xmax>137</xmax>
+			<ymax>140</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2297,10 +653,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1841</xmin>
-			<ymin>1230</ymin>
-			<xmax>1914</xmax>
-			<ymax>1326</ymax>
+			<xmin>454</xmin>
+			<ymin>321</ymin>
+			<xmax>550</xmax>
+			<ymax>394</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2309,10 +665,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1610</xmin>
-			<ymin>1339</ymin>
-			<xmax>1683</xmax>
-			<ymax>1408</ymax>
+			<xmin>473</xmin>
+			<ymin>396</ymin>
+			<xmax>552</xmax>
+			<ymax>459</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2321,10 +677,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>348</xmin>
-			<ymin>1303</ymin>
-			<xmax>464</xmax>
-			<ymax>1385</ymax>
+			<xmin>554</xmin>
+			<ymin>394</ymin>
+			<xmax>673</xmax>
+			<ymax>448</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2333,10 +689,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>219</xmin>
-			<ymin>1066</ymin>
-			<xmax>352</xmax>
-			<ymax>1128</ymax>
+			<xmin>546</xmin>
+			<ymin>446</ymin>
+			<xmax>698</xmax>
+			<ymax>504</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2345,10 +701,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>285</xmin>
-			<ymin>1112</ymin>
-			<xmax>421</xmax>
-			<ymax>1193</ymax>
+			<xmin>460</xmin>
+			<ymin>515</ymin>
+			<xmax>585</xmax>
+			<ymax>577</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2357,10 +713,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>44</xmin>
-			<ymin>975</ymin>
-			<xmax>131</xmax>
-			<ymax>1045</ymax>
+			<xmin>591</xmin>
+			<ymin>523</ymin>
+			<xmax>714</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2369,10 +725,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>550</xmin>
-			<ymin>836</ymin>
-			<xmax>669</xmax>
-			<ymax>917</ymax>
+			<xmin>521</xmin>
+			<ymin>575</ymin>
+			<xmax>637</xmax>
+			<ymax>650</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2381,10 +737,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1150</xmin>
-			<ymin>936</ymin>
-			<xmax>1233</xmax>
-			<ymax>1004</ymax>
+			<xmin>756</xmin>
+			<ymin>540</ymin>
+			<xmax>860</xmax>
+			<ymax>609</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2393,10 +749,70 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1698</xmin>
-			<ymin>413</ymin>
-			<xmax>1775</xmax>
-			<ymax>511</ymax>
+			<xmin>675</xmin>
+			<ymin>584</ymin>
+			<xmax>760</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>769</xmin>
+			<ymin>600</ymin>
+			<xmax>877</xmax>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>660</xmin>
+			<ymin>638</ymin>
+			<xmax>779</xmax>
+			<ymax>713</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>658</xmin>
+			<ymin>700</ymin>
+			<xmax>756</xmax>
+			<ymax>779</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>773</xmin>
+			<ymin>686</ymin>
+			<xmax>844</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>914</xmin>
+			<ymin>644</ymin>
+			<xmax>1010</xmax>
+			<ymax>696</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2406,9 +822,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>875</xmin>
-			<ymin>1374</ymin>
-			<xmax>991</xmax>
-			<ymax>1439</ymax>
+			<ymin>694</ymin>
+			<xmax>962</xmax>
+			<ymax>759</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2417,9 +833,297 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>462</xmin>
-			<ymin>198</ymin>
-			<xmax>560</xmax>
+			<xmin>969</xmin>
+			<ymin>759</ymin>
+			<xmax>1071</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>862</xmin>
+			<ymin>832</ymin>
+			<xmax>977</xmax>
+			<ymax>917</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>973</xmin>
+			<ymin>817</ymin>
+			<xmax>1075</xmax>
+			<ymax>896</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymin>746</ymin>
+			<xmax>971</xmax>
+			<ymax>825</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>919</xmin>
+			<ymin>888</ymin>
+			<xmax>1014</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1016</xmin>
+			<ymin>871</ymin>
+			<xmax>1127</xmax>
+			<ymax>932</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>966</xmin>
+			<ymin>925</ymin>
+			<xmax>1056</xmax>
+			<ymax>1011</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1031</xmin>
+			<ymin>967</ymin>
+			<xmax>1144</xmax>
+			<ymax>1051</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1123</xmin>
+			<ymin>1000</ymin>
+			<xmax>1262</xmax>
+			<ymax>1074</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>827</xmin>
+			<ymin>1009</ymin>
+			<xmax>956</xmax>
+			<ymax>1085</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>1076</ymin>
+			<xmax>948</xmax>
+			<ymax>1149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>958</xmin>
+			<ymin>1095</ymin>
+			<xmax>1075</xmax>
+			<ymax>1160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1081</xmin>
+			<ymin>1114</ymin>
+			<xmax>1179</xmax>
+			<ymax>1183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1071</xmin>
+			<ymin>1180</ymin>
+			<xmax>1169</xmax>
+			<ymax>1264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>937</xmin>
+			<ymin>277</ymin>
+			<xmax>1023</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>989</xmin>
+			<ymin>319</ymin>
+			<xmax>1083</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1029</xmin>
+			<ymin>267</ymin>
+			<xmax>1144</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>964</xmin>
+			<ymin>369</ymin>
+			<xmax>1071</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1046</xmin>
+			<ymin>352</ymin>
+			<xmax>1150</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>966</xmin>
+			<ymin>221</ymin>
+			<xmax>1066</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>964</xmin>
+			<ymin>167</ymin>
+			<xmax>1064</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>844</xmin>
+			<ymin>61</ymin>
+			<xmax>941</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>939</xmin>
+			<ymin>25</ymin>
+			<xmax>1029</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1050</xmin>
+			<ymin>138</ymin>
+			<xmax>1137</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1069</xmin>
+			<ymin>225</ymin>
+			<xmax>1154</xmax>
 			<ymax>275</ymax>
 		</bndbox>
 	</object>
@@ -2429,10 +1133,106 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1035</xmin>
+			<xmin>1071</xmin>
+			<ymin>79</ymin>
+			<xmax>1160</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1160</xmin>
+			<ymin>59</ymin>
+			<xmax>1248</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1137</xmin>
+			<ymin>142</ymin>
+			<xmax>1225</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1154</xmin>
+			<ymin>204</ymin>
+			<xmax>1262</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1139</xmin>
+			<ymin>277</ymin>
+			<xmax>1266</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1098</xmin>
+			<ymin>325</ymin>
+			<xmax>1189</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1150</xmin>
+			<ymin>394</ymin>
+			<xmax>1252</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1260</xmin>
+			<ymin>340</ymin>
+			<xmax>1362</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1271</xmin>
 			<ymin>223</ymin>
-			<xmax>1139</xmax>
-			<ymax>290</ymax>
+			<xmax>1391</xmax>
+			<ymax>298</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2441,10 +1241,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>927</xmin>
-			<ymin>242</ymin>
-			<xmax>1027</xmax>
-			<ymax>304</ymax>
+			<xmin>1266</xmin>
+			<ymin>157</ymin>
+			<xmax>1379</xmax>
+			<ymax>215</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2453,10 +1253,202 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1489</xmin>
-			<ymin>1266</ymin>
-			<xmax>1569</xmax>
-			<ymax>1335</ymax>
+			<xmin>1244</xmin>
+			<ymin>107</ymin>
+			<xmax>1331</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1241</xmin>
+			<ymin>38</ymin>
+			<xmax>1341</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1381</xmin>
+			<ymin>59</ymin>
+			<xmax>1464</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1458</xmin>
+			<ymin>59</ymin>
+			<xmax>1535</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1452</xmin>
+			<ymin>134</ymin>
+			<xmax>1550</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1383</xmin>
+			<ymin>175</ymin>
+			<xmax>1477</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1514</xmin>
+			<ymin>92</ymin>
+			<xmax>1602</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1508</xmin>
+			<ymin>40</ymin>
+			<xmax>1623</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1548</xmin>
+			<ymin>157</ymin>
+			<xmax>1644</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1654</xmin>
+			<ymin>46</ymin>
+			<xmax>1748</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1656</xmin>
+			<ymin>107</ymin>
+			<xmax>1766</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1654</xmin>
+			<ymin>150</ymin>
+			<xmax>1750</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1508</xmin>
+			<ymin>252</ymin>
+			<xmax>1604</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1446</xmin>
+			<ymin>284</ymin>
+			<xmax>1544</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1450</xmin>
+			<ymin>340</ymin>
+			<xmax>1556</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1527</xmin>
+			<ymin>323</ymin>
+			<xmax>1612</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1602</xmin>
+			<ymin>282</ymin>
+			<xmax>1677</xmax>
+			<ymax>386</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2466,9 +1458,21 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1687</xmin>
-			<ymin>1203</ymin>
+			<ymin>294</ymin>
+			<xmax>1760</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1673</xmin>
+			<ymin>352</ymin>
 			<xmax>1750</xmax>
-			<ymax>1266</ymax>
+			<ymax>425</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2477,10 +1481,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1760</xmin>
-			<ymin>1118</ymin>
-			<xmax>1829</xmax>
-			<ymax>1224</ymax>
+			<xmin>1346</xmin>
+			<ymin>317</ymin>
+			<xmax>1444</xmax>
+			<ymax>369</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2489,10 +1493,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1821</xmin>
-			<ymin>1128</ymin>
-			<xmax>1881</xmax>
-			<ymax>1201</ymax>
+			<xmin>1358</xmin>
+			<ymin>369</ymin>
+			<xmax>1456</xmax>
+			<ymax>434</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -2501,10 +1505,1198 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>646</xmin>
-			<ymin>1233</ymin>
-			<xmax>727</xmax>
-			<ymax>1314</ymax>
+			<xmin>1287</xmin>
+			<ymin>402</ymin>
+			<xmax>1381</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1348</xmin>
+			<ymin>454</ymin>
+			<xmax>1456</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1373</xmin>
+			<ymin>498</ymin>
+			<xmax>1471</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1583</xmin>
+			<ymin>382</ymin>
+			<xmax>1654</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1644</xmin>
+			<ymin>419</ymin>
+			<xmax>1744</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1556</xmin>
+			<ymin>438</ymin>
+			<xmax>1650</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1496</xmin>
+			<ymin>467</ymin>
+			<xmax>1591</xmax>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1594</xmin>
+			<ymin>479</ymin>
+			<xmax>1725</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1614</xmin>
+			<ymin>536</ymin>
+			<xmax>1710</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1596</xmin>
+			<ymin>579</ymin>
+			<xmax>1687</xmax>
+			<ymax>638</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1525</xmin>
+			<ymin>534</ymin>
+			<xmax>1602</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1525</xmin>
+			<ymin>607</ymin>
+			<xmax>1621</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1412</xmin>
+			<ymin>559</ymin>
+			<xmax>1506</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1171</xmin>
+			<ymin>452</ymin>
+			<xmax>1279</xmax>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1046</xmin>
+			<ymin>484</ymin>
+			<xmax>1131</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1127</xmin>
+			<ymin>515</ymin>
+			<xmax>1235</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1187</xmin>
+			<ymin>559</ymin>
+			<xmax>1302</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1300</xmin>
+			<ymin>575</ymin>
+			<xmax>1416</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1035</xmin>
+			<ymin>559</ymin>
+			<xmax>1131</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1385</xmin>
+			<ymin>632</ymin>
+			<xmax>1494</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1398</xmin>
+			<ymin>704</ymin>
+			<xmax>1489</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1441</xmin>
+			<ymin>736</ymin>
+			<xmax>1521</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1437</xmin>
+			<ymin>798</ymin>
+			<xmax>1552</xmax>
+			<ymax>857</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1458</xmin>
+			<ymin>854</ymin>
+			<xmax>1573</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1248</xmin>
+			<ymin>602</ymin>
+			<xmax>1333</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1048</xmin>
+			<ymin>607</ymin>
+			<xmax>1129</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1148</xmin>
+			<ymin>619</ymin>
+			<xmax>1231</xmax>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1181</xmin>
+			<ymin>661</ymin>
+			<xmax>1283</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1264</xmin>
+			<ymin>642</ymin>
+			<xmax>1346</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1304</xmin>
+			<ymin>669</ymin>
+			<xmax>1400</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1110</xmin>
+			<ymin>734</ymin>
+			<xmax>1212</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1150</xmin>
+			<ymin>765</ymin>
+			<xmax>1256</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>363</ymin>
+			<xmax>841</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>591</xmin>
+			<ymin>348</ymin>
+			<xmax>691</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymin>294</ymin>
+			<xmax>631</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>746</xmin>
+			<ymin>290</ymin>
+			<xmax>839</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>213</ymin>
+			<xmax>804</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>721</xmin>
+			<ymin>109</ymin>
+			<xmax>806</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>541</xmin>
+			<ymin>34</ymin>
+			<xmax>621</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>11</ymin>
+			<xmax>546</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>17</ymin>
+			<xmax>246</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1173</xmin>
+			<ymin>821</ymin>
+			<xmax>1264</xmax>
+			<ymax>879</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1212</xmin>
+			<ymin>871</ymin>
+			<xmax>1323</xmax>
+			<ymax>948</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1362</xmin>
+			<ymin>927</ymin>
+			<xmax>1510</xmax>
+			<ymax>1004</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1348</xmin>
+			<ymin>977</ymin>
+			<xmax>1469</xmax>
+			<ymax>1047</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1333</xmin>
+			<ymin>869</ymin>
+			<xmax>1466</xmax>
+			<ymax>929</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1316</xmin>
+			<ymin>829</ymin>
+			<xmax>1435</xmax>
+			<ymax>892</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1381</xmin>
+			<ymin>759</ymin>
+			<xmax>1473</xmax>
+			<ymax>832</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1233</xmin>
+			<ymin>729</ymin>
+			<xmax>1294</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1283</xmin>
+			<ymin>742</ymin>
+			<xmax>1371</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1281</xmin>
+			<ymin>786</ymin>
+			<xmax>1377</xmax>
+			<ymax>840</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1283</xmin>
+			<ymin>1066</ymin>
+			<xmax>1375</xmax>
+			<ymax>1135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1244</xmin>
+			<ymin>1151</ymin>
+			<xmax>1356</xmax>
+			<ymax>1210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1383</xmin>
+			<ymin>1055</ymin>
+			<xmax>1504</xmax>
+			<ymax>1095</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1381</xmin>
+			<ymin>1093</ymin>
+			<xmax>1504</xmax>
+			<ymax>1153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1360</xmin>
+			<ymin>1143</ymin>
+			<xmax>1473</xmax>
+			<ymax>1205</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1423</xmin>
+			<ymin>1185</ymin>
+			<xmax>1527</xmax>
+			<ymax>1255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1281</xmin>
+			<ymin>1189</ymin>
+			<xmax>1389</xmax>
+			<ymax>1251</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1344</xmin>
+			<ymin>1239</ymin>
+			<xmax>1431</xmax>
+			<ymax>1299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1202</xmin>
+			<ymin>1239</ymin>
+			<xmax>1308</xmax>
+			<ymax>1305</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1279</xmin>
+			<ymin>1278</ymin>
+			<xmax>1383</xmax>
+			<ymax>1345</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1410</xmin>
+			<ymin>1270</ymin>
+			<xmax>1485</xmax>
+			<ymax>1326</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1196</xmin>
+			<ymin>1312</ymin>
+			<xmax>1271</xmax>
+			<ymax>1364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1233</xmin>
+			<ymin>1351</ymin>
+			<xmax>1337</xmax>
+			<ymax>1433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1339</xmin>
+			<ymin>1362</ymin>
+			<xmax>1431</xmax>
+			<ymax>1433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>919</xmin>
+			<ymin>1160</ymin>
+			<xmax>1006</xmax>
+			<ymax>1235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1010</xmin>
+			<ymin>1141</ymin>
+			<xmax>1085</xmax>
+			<ymax>1233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>941</xmin>
+			<ymin>1224</ymin>
+			<xmax>1062</xmax>
+			<ymax>1293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1060</xmin>
+			<ymin>1260</ymin>
+			<xmax>1148</xmax>
+			<ymax>1333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>1270</ymin>
+			<xmax>948</xmax>
+			<ymax>1335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>908</xmin>
+			<ymin>1320</ymin>
+			<xmax>1000</xmax>
+			<ymax>1385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>969</xmin>
+			<ymin>1364</ymin>
+			<xmax>1039</xmax>
+			<ymax>1422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1044</xmin>
+			<ymin>1337</ymin>
+			<xmax>1137</xmax>
+			<ymax>1401</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1714</xmin>
+			<ymin>613</ymin>
+			<xmax>1821</xmax>
+			<ymax>690</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1814</xmin>
+			<ymin>586</ymin>
+			<xmax>1912</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1806</xmin>
+			<ymin>11</ymin>
+			<xmax>1908</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1673</xmin>
+			<ymin>667</ymin>
+			<xmax>1762</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1658</xmin>
+			<ymin>702</ymin>
+			<xmax>1764</xmax>
+			<ymax>761</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1664</xmin>
+			<ymin>761</ymin>
+			<xmax>1766</xmax>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1702</xmin>
+			<ymin>807</ymin>
+			<xmax>1800</xmax>
+			<ymax>865</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1746</xmin>
+			<ymin>848</ymin>
+			<xmax>1844</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1837</xmin>
+			<ymin>827</ymin>
+			<xmax>1920</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1783</xmin>
+			<ymin>788</ymin>
+			<xmax>1875</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1741</xmin>
+			<ymin>742</ymin>
+			<xmax>1816</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1773</xmin>
+			<ymin>700</ymin>
+			<xmax>1869</xmax>
+			<ymax>779</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1762</xmin>
+			<ymin>500</ymin>
+			<xmax>1841</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1781</xmin>
+			<ymin>444</ymin>
+			<xmax>1858</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1794</xmin>
+			<ymin>369</ymin>
+			<xmax>1873</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1633</xmin>
+			<ymin>1243</ymin>
+			<xmax>1719</xmax>
+			<ymax>1330</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1700</xmin>
+			<ymin>1278</ymin>
+			<xmax>1812</xmax>
+			<ymax>1368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1808</xmin>
+			<ymin>1305</ymin>
+			<xmax>1891</xmax>
+			<ymax>1383</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1641</xmin>
+			<ymin>1360</ymin>
+			<xmax>1762</xmax>
+			<ymax>1437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>660</xmin>
+			<ymin>1283</ymin>
+			<xmax>777</xmax>
+			<ymax>1345</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>1341</ymin>
+			<xmax>766</xmax>
+			<ymax>1412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>756</xmin>
+			<ymin>1343</ymin>
+			<xmax>837</xmax>
+			<ymax>1397</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1735</xmin>
+			<ymin>1228</ymin>
+			<xmax>1852</xmax>
+			<ymax>1293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>23</ymin>
+			<xmax>150</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>648</ymin>
+			<xmax>152</xmax>
+			<ymax>715</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>596</xmin>
+			<ymin>182</ymin>
+			<xmax>685</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>new_fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>562</xmin>
+			<ymin>232</ymin>
+			<xmax>706</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 </annotation>
