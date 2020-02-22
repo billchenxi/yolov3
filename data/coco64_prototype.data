@@ -1,0 +1,5 @@
+classes=1
+train=J_data/text/train.txt
+valid=J_data/text/train.txt
+names=J_data/text/name.names
+backup=backup/

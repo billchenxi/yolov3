@@ -1,0 +1,12 @@
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/8.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/MS_023_pilot_3_1.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/9.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/12.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/11.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/10.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/4.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/5.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/7.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/2.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/3.png
+/Users/billchen/Documents/yolov3/J_data/Feb20/images/1.png
