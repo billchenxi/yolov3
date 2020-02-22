@@ -1,5 +1,5 @@
 classes=1
-train=J_data/Feb20/train.txt
-valid=J_data/Feb20/train.txt
-names=J_data/Feb20/name.names
+train=./J_data/Feb20/train.txt
+valid=./J_data/Feb20/train.txt
+names=./J_data/Feb20/name.names
 backup=backup/
