@@ -25,7 +25,7 @@ results_file = 'results.txt'
 hyp = {'giou': 3.54,  # giou loss gain
        'cls': 37.4,  # cls loss gain
        'cls_pw': 1.0,  # cls BCELoss positive_weight
-       'obj': 49.5,  # obj loss gain (*=img_size/320 if img_size != 320)
+       'obj': 64.3,  # obj loss gain (*=img_size/320 if img_size != 320)
        'obj_pw': 1.0,  # obj BCELoss positive_weight
        'iou_t': 0.225,  # iou training threshold
        'lr0': 0.00579,  # initial learning rate (SGD=5E-3, Adam=5E-4)
@@ -244,22 +244,6 @@ def train():
             imgs = imgs.to(device).float() / 255.0  # uint8 to float32, 0 - 255 to 0.0 - 1.0
             targets = targets.to(device)
 
-            # Multi-Scale training
-            if opt.multi_scale:
-                if ni / accumulate % 10 == 0:  #  adjust (67% - 150%) every 10 batches
-                    img_size = random.randrange(img_sz_min, img_sz_max + 1) * 32
-                sf = img_size / max(imgs.shape[2:])  # scale factor
-                if sf != 1:
-                    ns = [math.ceil(x * sf / 32.) * 32 for x in imgs.shape[2:]]  # new shape (stretched to 32-multiple)
-                    imgs = F.interpolate(imgs, size=ns, mode='bilinear', align_corners=False)
-
-            # Plot images with bounding boxes
-            if ni == 0:
-                fname = 'train_batch%g.png' % i
-                plot_images(imgs=imgs, targets=targets, paths=paths, fname=fname)
-                if tb_writer:
-                    tb_writer.add_image(fname, cv2.imread(fname)[:, :, ::-1], dataformats='HWC')
-
             # Hyperparameter burn-in
             # n_burn = nb - 1  # min(nb // 5 + 1, 1000)  # number of burn-in batches
             # if ni <= n_burn:
@@ -270,6 +254,22 @@ def train():
             #     for x in optimizer.param_groups:
             #         x['lr'] = hyp['lr0'] * g
             #         x['weight_decay'] = hyp['weight_decay'] * g
+
+            # Plot images with bounding boxes
+            if ni == 0:
+                fname = 'train_batch%g.png' % i
+                plot_images(imgs=imgs, targets=targets, paths=paths, fname=fname)
+                if tb_writer:
+                    tb_writer.add_image(fname, cv2.imread(fname)[:, :, ::-1], dataformats='HWC')
+
+            # Multi-Scale training
+            if opt.multi_scale:
+                if ni / accumulate % 1 == 0:  #  adjust img_size (67% - 150%) every 1 batch
+                    img_size = random.randrange(img_sz_min, img_sz_max + 1) * 32
+                sf = img_size / max(imgs.shape[2:])  # scale factor
+                if sf != 1:
+                    ns = [math.ceil(x * sf / 32.) * 32 for x in imgs.shape[2:]]  # new shape (stretched to 32-multiple)
+                    imgs = F.interpolate(imgs, size=ns, mode='bilinear', align_corners=False)
 
             # Run model
             pred = model(imgs)
@@ -297,9 +297,8 @@ def train():
 
             # Print batch results
             mloss = (mloss * i + loss_items) / (i + 1)  # update mean losses
-            mem = torch.cuda.memory_cached() / 1E9 if torch.cuda.is_available() else 0  # (GB)
-            s = ('%10s' * 2 + '%10.3g' * 6) % (
-                '%g/%g' % (epoch, epochs - 1), '%.3gG' % mem, *mloss, len(targets), img_size)
+            mem = '%.3gG' % (torch.cuda.memory_cached() / 1E9 if torch.cuda.is_available() else 0)  # (GB)
+            s = ('%10s' * 2 + '%10.3g' * 6) % ('%g/%g' % (epoch, epochs - 1), mem, *mloss, len(targets), img_size)
             pbar.set_description(s)
 
             # end batch ------------------------------------------------------------------------------------------------
@@ -407,7 +406,7 @@ if __name__ == '__main__':
     parser.add_argument('--evolve', action='store_true', help='evolve hyperparameters')
     parser.add_argument('--bucket', type=str, default='', help='gsutil bucket')
     parser.add_argument('--cache-images', action='store_true', help='cache images for faster training')
-    parser.add_argument('--weights', type=str, default='weights/ultralytics68.pt', help='initial weights')
+    parser.add_argument('--weights', type=str, default='weights/yolov3-spp-ultralytics.pt', help='initial weights path')
     parser.add_argument('--arc', type=str, default='default', help='yolo architecture')  # default, uCE, uBCE
     parser.add_argument('--name', default='', help='renames results.txt to results_name.txt if supplied')
     parser.add_argument('--device', default='', help='device id (i.e. 0 or 0,1 or cpu)')
