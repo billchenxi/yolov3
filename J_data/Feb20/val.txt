@@ -1,2 +1,2 @@
-J_data/Feb20/10.png
-J_data/Feb20/7.png
+J_data/Feb20/images/10.png
+J_data/Feb20/images/7.png
